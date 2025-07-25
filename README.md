@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/file_000000006a8c6230bce8511c74d958a2.png " alt="AI Banner" width="100%" />
+  <img src="assets/banner.png " alt="AI Banner" width="100%" />
 </p>
 # The Pervasive Rise of AI and Machine Learning
 
