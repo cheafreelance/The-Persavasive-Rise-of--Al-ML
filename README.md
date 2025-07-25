@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="AI Banner" width="100%" />
+</p>
 # The Pervasive Rise of AI and Machine Learning
 
 🚀 A beginner-friendly project exploring real-world use cases of Artificial Intelligence and Machine Learning, built by **Freelancerchea**.
