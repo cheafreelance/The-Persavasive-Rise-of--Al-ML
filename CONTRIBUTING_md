@@ -1,0 +1,13 @@
+# 🤝 Contributing Guide
+
+Thank you for considering contributing to **The Pervasive Rise of AI and Machine Learning**!  
+We welcome all kinds of contributions — whether you're fixing bugs, improving documentation, or adding new notebooks.
+
+---
+
+## 🛠️ Getting Started
+
+1. **Fork** this repository
+2. **Clone** your fork to your local machine:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/The-Persavasive-Rise-of--Al-ML.git
