@@ -1,3 +1,14 @@
+## 📌 Table of Contents
+
+- [Project Overview](#project-overview)
+- [Project Banner](#project-banner)
+- [Examples](#examples)
+- [Notebooks](#notebooks)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
 https://colab.research.google.com/github/cheafreelance/The-Persavasive-Rise-of--Al-ML/blob/main/examples/image_classification_mobilenet.ipynb
 https://github.com/cheafreelance/The-Persavasive-Rise-of--Al-ML/issues/3
 <p align="center">
