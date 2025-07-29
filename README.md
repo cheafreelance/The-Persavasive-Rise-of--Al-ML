@@ -1,5 +1,8 @@
 # 🧠 The Pervasive Rise of AI and Machine Learning
-
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cheafreelance/The-Persavasive-Rise-of--Al-ML/blob/main/examples/image_classification_mobilenet.ipynb)
+![GitHub Repo stars](https://img.shields.io/github/stars/cheafreelance/The-Persavasive-Rise-of--Al-ML?style=social)
+![GitHub forks](https://img.shields.io/github/forks/cheafreelance/The-Persavasive-Rise-of--Al-ML?style=social)
 > A curated set of real-world machine learning notebooks and AI use cases, designed for learners, developers, and contributors.
 
 ---
